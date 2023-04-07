@@ -1,1 +1,1 @@
-Here is the official implementation of Mert-MEL in the paper *Multimodal Entity Linking with Mixed Fusion Mechanism*.
+**This repository has been deprecated**. The official implementation of Mert-MEL in the paper *Multimodal Entity Linking with Mixed Fusion Mechanism* is now transfered to [here](https://github.com/TideDra/mert-mel).
